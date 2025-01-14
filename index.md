@@ -5,3 +5,7 @@ Meaningful comment explaining changes
 ```bash
 newrepo=$1
 ```
+- [x] Fix the cables
+- [x] Turn the knobs
+- [ ] Pick the cameras rome and rove
+- [x] Audible and sounding great
